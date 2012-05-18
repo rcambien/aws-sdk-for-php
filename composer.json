@@ -1,6 +1,6 @@
 {
     "name":"amazonwebservices/aws-sdk-for-php",
-    "version":"1.5.6",
+    "version":"1.5.7",
     "description":"AWS SDK for PHP",
     "keywords":["aws","amazon","sdk"],
     "type":"library",
